@@ -1,6 +1,7 @@
 {
-  "name": "fsm-validator",
+  "name": "parser",
   "description": "parser",
+  "version":"0.0.1",
   "main": "./js/State.js",
   "keywords": [
     "parser"
