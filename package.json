@@ -1,0 +1,14 @@
+{
+  "name": "fsm-validator",
+  "description": "parser",
+  "main": "./js/State.js",
+  "keywords": [
+    "parser"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "paul boon",
+  "license": "ISC",
+  "dependencies": {}
+}
